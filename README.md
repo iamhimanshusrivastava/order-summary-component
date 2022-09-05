@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - Order summary card solution
 
-## Getting Started
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### The challenge
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Users should be able to:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- See hover states for interactive elements
 
-## Learn More
+### Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+| ![Order Summary Component (Desktop View)](./public/img/screenshots/order-summary-component-desktop-solution-screenshot.png) |
+| :-------------------------------------------------------------------------------------------------------------------------: |
+|                                           Order Summary Component (Desktop View)                                            |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| ![Order Summary Component (Mobile View)](./public/img/screenshots/order-summary-component-mobile-solution-screenshot.png) |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+|                                           Order Summary Component (Mobile View)                                           |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Links
 
-## Deploy on Vercel
+- Solution URL: [https://6315b55e1b29b12688b2545b--preeminent-melomakarona-0a6b50.netlify.app/](https://6315b55e1b29b12688b2545b--preeminent-melomakarona-0a6b50.netlify.app/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## My process
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [TailwindCSS](https://tailwindcss.com) - CSS Utility Framework
+
+## Author
+
+- Frontend Mentor - [@iamhimanshusrivastava](https://www.frontendmentor.io/profile/iamhimanshusrivastava)
+- Twitter - [@coderhimanshu](https://www.twitter.com/coderhimanshu)
